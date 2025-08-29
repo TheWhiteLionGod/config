@@ -1,0 +1,754 @@
+{
+	"devices": {
+		"vi": {
+			"2": {
+				"name": "A1",
+				"nick": "A1",
+				"description": "A1",
+				"device_type": "sink",
+				"device_class": "virtual",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {
+						"1": {
+							"nick": "Left Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								false
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "Headphone",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "Right Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								false,
+								true
+							],
+							"port_map": []
+						}
+					},
+					"b": {
+						"1": {
+							"nick": "B1",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "B2",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "B3",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true
+							],
+							"port_map": []
+						}
+					}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"4": {
+				"name": "A2",
+				"nick": "A2",
+				"description": "A2",
+				"device_type": "sink",
+				"device_class": "virtual",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {
+						"1": {
+							"nick": "Left Monitor",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								false
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "Headphone",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "Right Monitor",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								false,
+								true
+							],
+							"port_map": []
+						}
+					},
+					"b": {
+						"1": {
+							"nick": "B1",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "B2",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "B3",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true
+							],
+							"port_map": []
+						}
+					}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"5": {
+				"name": "A3",
+				"nick": "A3",
+				"description": "A3",
+				"device_type": "sink",
+				"device_class": "virtual",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {
+						"1": {
+							"nick": "Left Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								false
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "Headphone",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "Right Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								false,
+								true
+							],
+							"port_map": []
+						}
+					},
+					"b": {
+						"1": {
+							"nick": "B1",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "B2",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "B3",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true,
+								true
+							],
+							"output_sel_channels": [
+								true
+							],
+							"port_map": []
+						}
+					}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"6": {
+				"name": "A4",
+				"nick": "A4",
+				"description": "A4",
+				"device_type": "sink",
+				"device_class": "virtual",
+				"volume": [
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 1,
+				"channel_list": [
+					"MONO"
+				],
+				"connections": {
+					"a": {
+						"1": {
+							"nick": "Left Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								false
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "Headphone",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "Right Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								false,
+								true
+							],
+							"port_map": []
+						}
+					},
+					"b": {
+						"1": {
+							"nick": "B1",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "B2",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "B3",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true
+							],
+							"port_map": []
+						}
+					}
+				},
+				"selected_channels": [
+					true
+				]
+			}
+		},
+		"hi": {
+			"1": {
+				"name": "alsa_input.usb-046d_08ce_2B7FA2E4-02.pro-input-0",
+				"nick": "Microphone",
+				"description": "QuickCam Pro 5000 Pro",
+				"device_type": "source",
+				"device_class": "hardware",
+				"volume": [
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 1,
+				"channel_list": [
+					"AUX0"
+				],
+				"connections": {
+					"a": {
+						"1": {
+							"nick": "Left Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								false
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "Headphone",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "Right Monitor",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								false,
+								true
+							],
+							"port_map": []
+						}
+					},
+					"b": {
+						"1": {
+							"nick": "B1",
+							"state": true,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"2": {
+							"nick": "B2",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true,
+								true
+							],
+							"port_map": []
+						},
+						"3": {
+							"nick": "B3",
+							"state": false,
+							"latency": null,
+							"auto_ports": true,
+							"input_sel_channels": [
+								true
+							],
+							"output_sel_channels": [
+								true
+							],
+							"port_map": []
+						}
+					}
+				},
+				"selected_channels": [
+					true
+				]
+			}
+		},
+		"a": {
+			"1": {
+				"name": "alsa_output.pci-0000_04_00.1.HiFi__HDMI1__sink",
+				"nick": "Left Monitor",
+				"description": "Renoir/Cezanne HDMI/DP Audio Controller HDMI / DisplayPort 1 Output",
+				"device_type": "sink",
+				"device_class": "hardware",
+				"volume": [
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 1,
+				"channel_list": [
+					"FL"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					false
+				]
+			},
+			"2": {
+				"name": "alsa_output.pci-0000_04_00.6.HiFi__Line2__sink",
+				"nick": "Headphone",
+				"description": "Family 17h/19h/1ah HD Audio Controller Second Line Output",
+				"device_type": "sink",
+				"device_class": "hardware",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"3": {
+				"name": "alsa_output.pci-0000_04_00.1.HiFi__HDMI2__sink",
+				"nick": "Right Monitor",
+				"description": "Renoir/Cezanne HDMI/DP Audio Controller HDMI / DisplayPort 2 Output",
+				"device_type": "sink",
+				"device_class": "hardware",
+				"volume": [
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 1,
+				"channel_list": [
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					false,
+					true
+				]
+			}
+		},
+		"b": {
+			"1": {
+				"name": "B1",
+				"nick": "B1",
+				"description": "B1",
+				"device_type": "source",
+				"device_class": "virtual",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": true,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"2": {
+				"name": "B2",
+				"nick": "B2",
+				"description": "B2",
+				"device_type": "source",
+				"device_class": "virtual",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"3": {
+				"name": "B3",
+				"nick": "B3",
+				"description": "B3",
+				"device_type": "source",
+				"device_class": "virtual",
+				"volume": [
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": false,
+				"channels": 1,
+				"channel_list": [
+					"MONO"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true
+				]
+			}
+		}
+	},
+	"vumeters": true,
+	"cleanup": true,
+	"tray": false,
+	"layout": "bars"
+}
